@@ -10,10 +10,10 @@ Sleuthing approach:
 
 To-Do's:
 
-- [  ] Calculate number of recapitulated interactions and add to spreadsheet
-- [  ] Add extra SuCOS feature & volume scores to spreadsheet
-- [  ] Determine logical filter to mimic manual eyeballing
-- [  ] Do a few more targets
+- [ ] Calculate number of recapitulated interactions and add to spreadsheet
+- [ ] Add extra SuCOS feature & volume scores to spreadsheet
+- [ ] Determine logical filter to mimic manual eyeballing
+- [ ] Do a few more targets
 
 ## A71EV2A
 
