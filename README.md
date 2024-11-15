@@ -1,12 +1,12 @@
 # InspirationTracing
 Trace inspirations for experimental follow-up hits back to their fragments
 
-Sleuthing approach:
+Manual sleuthing approach:
 
-1. Identify Fragalysis tags that correspond to derivatives and fragment screen
-2. For each derivative calculate SuCOS score against all candidate inspirations
-3. Export Excel file
-4. For each derivative quickly eyeball overlaid derivative and fragment and score inspiration based on visual overlap of fragment motifs
+1. Identify Fragalysis tags that correspond to derivatives and fragment screen [A71EV2A.ipynb](A71EV2A.ipynb)
+2. For each derivative calculate SuCOS score against all candidate inspirations [A71EV2A.ipynb](A71EV2A.ipynb)
+3. Export CSV and format an Excel file [A71EV2A_sucos.xslx](A71EV2A_sucos.xslx)
+4. For each derivative quickly eyeball overlaid derivative and fragment and score inspiration based on visual overlap of fragment motifs [A71EV2A.ipynb](A71EV2A.ipynb)
 
 To-Do's:
 
