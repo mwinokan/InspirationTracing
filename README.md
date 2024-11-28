@@ -23,3 +23,9 @@ To-Do's:
 Manually identified:
 - 56 fragment-derivative pairs `"Max Eyeball" == YES` in [A71EV2A_sucos](A71EV2A_sucos.xslx)
 - 58 additional possible fragment-derivative pairs `"Max Eyeball" == MAYBE` in [A71EV2A_sucos](A71EV2A_sucos.xslx)
+
+- At least one example of XCA helping to map crystalform site observations onto eachother
+
+## CHIKV_Mac
+
+- XCA helps to map different chains in the same crystalform onto each other
